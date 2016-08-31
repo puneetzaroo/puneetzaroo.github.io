@@ -8,7 +8,7 @@ title: About
 I am an Infrastructure software engineer at  [Zerostack](http://www.zerostack.com) building
 highly available distributed systems. Here is the kind of work I am doing here:
 
-* [VM High Availability] (https://www.zerostack.com/virtual-machine-high-availability/)
+* [VM High Availability](https://www.zerostack.com/virtual-machine-high-availability/)
 * [Building a highly available private cloud](https://www.zerostack.com/building-a-highly-available-private-cloud/)
  
 Prior to that I was an early engineer at [VMware](http://www.vmware.com)
