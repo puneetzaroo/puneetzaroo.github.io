@@ -6,7 +6,8 @@ layout: page
 
 I am an Infrastructure software engineer. Currently, I am a founding engineer
 at  [Zerostack](http://www.zerostack.com), developing highly available
-distributed systems. I have led the design and development of a distributed
+distributed systems. I have led the design and development of core components
+of the Zerostack Cloud platform, including  a distributed
 self-healing control plane; and a virtual machine high-availability feature.
 The following blog posts give a high-level overview of some of this work.
 
@@ -15,7 +16,7 @@ The following blog posts give a high-level overview of some of this work.
  
 Prior to that I was an early engineer at [VMware](http://www.vmware.com)
 with contributions across the software stack, from resource management in 
-operating systems to distributed storage systems, to distributed systems
+operating systems to distributed storage systems and distributed systems
 orchestration.
 
 I got a Master's from [Purdue University](http://www.cs.purdue.edu), and
