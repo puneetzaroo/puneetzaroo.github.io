@@ -17,7 +17,8 @@ The following blog posts give a high-level overview of some of this work.
 Prior to that I was an early engineer at [VMware](http://www.vmware.com)
 with contributions across the software stack, from resource management in 
 operating systems to distributed storage systems and distributed systems
-orchestration.
+orchestration. I have around a dozen pending and granted patents across these
+areas.
 
 I got a Master's from [Purdue University](http://www.cs.purdue.edu), and
 a Bachelor's from  the
